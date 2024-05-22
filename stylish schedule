@@ -1,0 +1,86 @@
+<style>
+    table, th, tr, td {
+        border: 2px solid black;
+    }
+
+</style>
+
+<table>
+    <tr>
+        <th>
+            Weekly Schedule
+        </th>
+        <th colspan="2">Morning</th>
+        <th colspan="2">Noon</th>
+        <th colspan="2">Night</th>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>Eat breakfast</td>
+        <td>Arts and crafts (9:00-12:00)</td>
+        <td>Eat lunch</td>
+        <td>Walk dogs</td>
+        <td>Eat dinner</td>
+        <td>Read (8:00-9:00)</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>Eat breakfast</td>
+        <td>Go to the park</td>
+        <td>Eat lunch</td>
+        <td>Go to work (4:00-9:00)</td>
+        <td>Eat dinner</td>
+        <td>Free time (10:00-11:00)</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>Eat breakfast</td>
+        <td>Play with my cat</td>
+        <td>Eat lunch</td>
+        <td>Hang out with friends</td>
+        <td>Eat dinner</td>
+        <td>Read (8:00-10:00)</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>Eat breakfast</td>
+        <td>Walk dogs</td>
+        <td>Eat lunch</td>
+        <td>Go to work (4:00-9:00)</td>
+        <td>Eat dinner</td>
+        <td>Free time (10:00-11:00)</td>
+
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td>Eat breakfast</td>
+        <td>Hang out with friends</td>
+        <td>Eat lunch</td>
+        <td>Go to work (4:00-10:00)</td>
+        <td>Eat dinner</td>
+        <td>Read (11:00-11:30)</td>
+    </tr>
+    <tr>
+        <td>Saturday</td>
+        <td>Eat breakfast</td>
+        <td>Go to the park</td>
+
+        <td>Eat lunch</td>
+
+        <td>Go to work (3:00-8:00)</td>
+        <td>Eat dinner</td>
+
+        <td>Arts and crafts (9:00-10:30)</td>
+    </tr>
+    <tr>
+        <td>Sunday</td>
+        <td>Eat breakfast</td>
+        <td>Free time</td>
+
+        <td>Eat lunch</td>
+
+        <td>Go to work (11:00-3:00)</td>
+        <td>Eat dinner</td>
+        <td>Read (7:00-8:00)</td>
+    </tr>
+</table>
